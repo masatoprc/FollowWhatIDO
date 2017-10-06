@@ -1,2 +1,2 @@
 # FollowWhatIDO
-An X11 game created from Scration with C++
+An X11 game created from scratch with C++

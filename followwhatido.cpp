@@ -393,7 +393,7 @@ int main(int argc, char *argv[])
 
     XEvent event;
 
-    // time of last window paint
+    // time of last window paint 
     unsigned long lastRepaint = 0;
     XSelectInput(xinfo.display, xinfo.window,
                  ButtonPressMask | KeyPressMask | StructureNotifyMask | PointerMotionMask); // select events
